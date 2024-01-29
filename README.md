@@ -8,16 +8,16 @@
 
 <!--<p align="left"> <a href="https://twitter.com/ayush272002" target="blank"><img src="https://img.shields.io/twitter/follow/ayush272002?logo=twitter&style=for-the-badge" alt="ayush272002" /></a> </p>-->
 
-- 💬 Ask me about **Java & MERN stack**
+- 💬 Ask me about ** CPP,PYTHON  & MERN stack**
 
-<!--- 📫 How to reach me **ayushacharjya@gmail.com**-->
+<--- 📫 How to reach me **dakshpandit8076@gmail.com**-->
 
 - ⚡ Fun fact **Its all 0's and 1's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!--<a href="https://twitter.com/ayush272002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush272002" height="30" width="40" /></a>
-<a href="https://instagram.com/ayush272002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush272002" height="30" width="40" /></a>-->
+<
+<a href="https://instagram.com/er.daksh_pandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er.daksh_pandit" height="30" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
