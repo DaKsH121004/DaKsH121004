@@ -1,10 +1,8 @@
-
+[![MasterHead](https://raw.githubusercontent.com/Ayush272002/Ayush272002/main/git%20hub%20banner.gif)]
 
 <h1 align="center">Hi 👋, I'm Daksh</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="just a casual image" width="400" src="https://raw.githubusercontent.com/Ayush272002/Ayush272002/main/git%20hub%20image.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DaKsH121004&label=Profile%20views&color=0e75b6&style=flat" alt="ayush272002" /> </p>
+<img align="right" alt="just a casual image" width="400" 
 
 <!--<p align="left"> <a href="https://twitter.com/ayush272002" target="blank"><img src="https://img.shields.io/twitter/follow/ayush272002?logo=twitter&style=for-the-badge" alt="ayush272002" /></a> </p>-->
 
