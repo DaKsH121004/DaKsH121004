@@ -1,7 +1,7 @@
 <!-- HIGH-CONTRAST MULTICOLOUR NAME -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Daksh%20Pandit&fontSize=54&fontColor=gradient&animation=twinkling&color=0:00F260,50:0575E6,100:00F260" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Daksh%20Kumar&fontSize=54&fontColor=gradient&animation=twinkling&color=0:00F260,50:0575E6,100:00F260" 
     alt="Daksh Kumar" 
   />
 </p>
