@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- EXACT MATCH: Pure dark bg, large bold name, subtitle, blue typing line, badge row -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Daksh%20Kumar&fontSize=82&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&color=0:0D1117,25:0D1117,75:0D1117,100:0D1117&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Deep%20Learning&descSize=26&descAlignY=60&descFontColor=CCCCCC" alt="Daksh Kumar" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Daksh%20Kumar&fontSize=90&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&color=0:0D1117,100:0D1117&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Deep%20Learning&descSize=28&descAlignY=58&descFontColor=BBBBBB" alt="Daksh Kumar" width="100%" />
 
-<!-- Blue monospace typing line — matches screenshot -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Open+to+Internships+%26+Research+Roles+%F0%9F%9A%80;Building+End-to-End+AI+Systems+%F0%9F%A4%96;Fire+%26+Smoke+Detection+with+YOLOv8+%F0%9F%94%A5;Computer+Vision+%7C+Edge+AI+%7C+IoT+%F0%9F%93%A1;YOLO+%7C+PyTorch+%7C+TensorFlow+%7C+OpenCV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Open+to+Internships+%26+Research+Roles+%F0%9F%9A%80;Building+End-to-End+AI+Systems+%F0%9F%A4%96;Fire+%26+Smoke+Detection+with+YOLOv8+%F0%9F%94%A5;Computer+Vision+%7C+Edge+AI+%7C+IoT+%F0%9F%93%A1;YOLO+%7C+PyTorch+%7C+TensorFlow+%7C+OpenCV" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Badge row — matches screenshot exactly -->
 [![Profile Views](https://komarev.com/ghpvc/?username=DaKsH121004&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/DaKsH121004)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh0821)
@@ -20,6 +17,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-DaKsH121004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DaKsH121004)
 
 </div>
+
+<br/>
 
 ---
 
@@ -197,15 +196,22 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DaKsH121004&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="180em"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaKsH121004&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="180em"/>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=DaKsH121004&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=percentile" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaKsH121004&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+</td>
+</tr>
+</table>
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=DaKsH121004&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=DaKsH121004&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&stroke=0D1117&currStreakNum=FFFFFF&sideNums=FFFFFF" width="60%"/>
 
 </div>
 
@@ -214,34 +220,30 @@ me.say_hi()
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaKsH121004&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F3A5F&hide_border=true&radius=6" width="95%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaKsH121004&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=0D2137&hide_border=true&custom_title=Daksh%27s%20Contribution%20Graph" width="95%"/>
+
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaKsH121004&theme=github_dark&hide_border=true" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaKsH121004&theme=github_dark&hide_border=true" height="155"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaKsH121004&theme=github_dark&hide_border=true" height="160em"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaKsH121004&theme=github_dark&hide_border=true" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaKsH121004&theme=github_dark&hide_border=true" height="155"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaKsH121004&theme=github_dark&hide_border=true&utcOffset=5.5" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaKsH121004&theme=github_dark&hide_border=true&utcOffset=5.5" height="155"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=DaKsH121004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-readme-stats.vercel.app/api?username=DaKsH121004&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=C9D1D9&custom_title=%F0%9F%8F%86%20Achievement%20Overview&rank_icon=github&show=prs_merged,prs_merged_percentage,discussions_started" width="50%"/>
 
 </div>
 
