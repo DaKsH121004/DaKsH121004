@@ -1,14 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Daksh%20Kumar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364&desc=AI%20%7C%20ML%20%7C%20Computer%20Vision%20Engineer&descSize=20&descAlignY=70&descFontColor=A8DADC" alt="Daksh Kumar" width="100%" />
+<!-- EXACT MATCH: Pure dark bg, large bold name, subtitle, blue typing line, badge row -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Daksh%20Kumar&fontSize=82&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&color=0:0D1117,25:0D1117,75:0D1117,100:0D1117&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Deep%20Learning&descSize=26&descAlignY=60&descFontColor=CCCCCC" alt="Daksh Kumar" width="100%" />
 
-<br/>
+<!-- Blue monospace typing line — matches screenshot -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Open+to+Internships+%26+Research+Roles+%F0%9F%9A%80;Building+End-to-End+AI+Systems+%F0%9F%A4%96;Fire+%26+Smoke+Detection+with+YOLOv8+%F0%9F%94%A5;Computer+Vision+%7C+Edge+AI+%7C+IoT+%F0%9F%93%A1;YOLO+%7C+PyTorch+%7C+TensorFlow+%7C+OpenCV" alt="Typing SVG" />
+</a>
 
+<br/><br/>
+
+<!-- Badge row — matches screenshot exactly -->
 [![Profile Views](https://komarev.com/ghpvc/?username=DaKsH121004&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/DaKsH121004)
-[![GitHub Followers](https://img.shields.io/github/followers/DaKsH121004?label=Followers&style=flat-square&color=0e75b6)](https://github.com/DaKsH121004)
-[![GitHub Stars](https://img.shields.io/github/stars/DaKsH121004?label=Stars&style=flat-square&color=f39c12)](https://github.com/DaKsH121004)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/daksh0821)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Dakshpandit8076@gmail.com)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh0821)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Hire%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Dakshpandit8076@gmail.com)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-DaKsH121004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DaKsH121004)
 
 </div>
 
@@ -188,14 +197,15 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaKsH121004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaKsH121004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DaKsH121004&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="180em"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaKsH121004&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="180em"/>
 
 </div>
 
 <div align="center">
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=DaKsH121004&theme=tokyonight&hide_border=true)
+<img src="https://nirzak-streak-stats.vercel.app/?user=DaKsH121004&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" width="65%"/>
 
 </div>
 
@@ -204,7 +214,25 @@ me.say_hi()
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaKsH121004&theme=tokyonight" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaKsH121004&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F3A5F&hide_border=true&radius=6" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaKsH121004&theme=github_dark&hide_border=true" height="160em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaKsH121004&theme=github_dark&hide_border=true" height="160em"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaKsH121004&theme=github_dark&hide_border=true" height="160em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaKsH121004&theme=github_dark&hide_border=true&utcOffset=5.5" height="160em"/>
+
 </div>
 
 ---
