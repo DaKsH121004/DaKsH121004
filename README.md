@@ -221,19 +221,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaKsH121004&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=0D2137&hide_border=true&custom_title=Daksh%27s%20Contribution%20Graph" width="95%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaKsH121004&theme=github_dark&hide_border=true" height="155"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaKsH121004&theme=github_dark&hide_border=true" height="155"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaKsH121004&theme=github_dark&hide_border=true&utcOffset=5.5" height="155"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=DaKsH121004&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="60%"/>
 
 </div>
 
